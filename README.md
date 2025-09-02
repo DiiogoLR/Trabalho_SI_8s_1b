@@ -9,11 +9,11 @@ O objetivo é demonstrar os fundamentos da linguagem **Dart**, aplicando conceit
 - Estruturas de controle (laços e condicionais)
 
 ## 📂 Estrutura do Projeto
-├── src/
-│ └── Aula.dart # Script principal em Dart
-├── .gitignore
-├── Project1.iml
-└── README.md
+├── src/  
+│ └── Aula.dart # Script principal em Dart  
+├── .gitignore  
+├── Project1.iml  
+└── README.md  
 
 ## 🏗️ Classe implementada
 A classe escolhida foi **Filme**, com os seguintes atributos:
@@ -29,35 +29,35 @@ A classe escolhida foi **Filme**, com os seguintes atributos:
 4. Ao final, exibe o **filme com maior nota IMDb**.
 
 ### Exemplo de saída no console:
-Nome: "Interestelar"
-Diretor: Christopher Nolan
-Nota IMDb: 8.7
+Nome: "Interestelar"  
+Diretor: Christopher Nolan  
+Nota IMDb: 8.7  
 
-Nome: "Cidade de Deus"
-Diretor: Fernando Meirelles
-Nota IMDb: 8.6
+Nome: "Cidade de Deus"  
+Diretor: Fernando Meirelles  
+Nota IMDb: 8.6  
 
-...
+...  
 
------- MELHOR FILME --------
-Nome: "O Poderoso Chefão"
-Diretor: Francis Ford Coppola
-Nota IMDb: 9.2
+------ MELHOR FILME --------  
+Nome: "O Poderoso Chefão"  
+Diretor: Francis Ford Coppola  
+Nota IMDb: 9.2  
 
 
 ## ▶️ Como executar
-1. Instale o SDK do [Dart](https://dart.dev/get-dart).
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/DiiogoLR/Trabalho_SI_8s_1b.git
+1. Instale o SDK do [Dart](https://dart.dev/get-dart).  
+2. Clone este repositório:  
+   ```bash  
+   git clone https://github.com/DiiogoLR/Trabalho_SI_8s_1b.git  
 
-Acesse a pasta do projeto e rode o arquivo principal:
+Acesse a pasta do projeto e rode o arquivo principal:  
 
-    cd projeto-dart-parte1/src
-    dart main.dart
+    cd projeto-dart-parte1/src  
+    dart main.dart  
 
 👨‍💻 Autores:
 
-Diogo Lima do Rosario
-Gellyorge Marvila Marques
-Gustavo Marvila Haddad Elias
+- Diogo Lima do Rosario
+- Gellyorge Marvila Marques
+- Gustavo Marvila Haddad Elias
