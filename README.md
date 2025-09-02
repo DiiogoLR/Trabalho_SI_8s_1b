@@ -49,12 +49,12 @@ Nota IMDb: 9.2
 1. Instale o SDK do [Dart](https://dart.dev/get-dart).
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/projeto-dart-parte1.git
+   git clone https://github.com/DiiogoLR/Trabalho_SI_8s_1b.git
 
 Acesse a pasta do projeto e rode o arquivo principal:
 
     cd projeto-dart-parte1/src
-    dart Aula.dart
+    dart main.dart
 
 👨‍💻 Autores:
 
