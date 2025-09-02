@@ -1,63 +1,16 @@
-# Projeto Dart - Parte 1 (Computação Móvel)
+# aula01
 
-## 📌 Descrição
-Este projeto foi desenvolvido para a disciplina **Computação Móvel** (Multivix),
-como parte da **Avaliação Processual - 1º Bimestre**.  
-O objetivo é demonstrar os fundamentos da linguagem **Dart**, aplicando conceitos de:
-- Criação de classes e atributos
-- Estruturas de dados (List)
-- Estruturas de controle (laços e condicionais)
+A new Flutter project.
 
-## 📂 Estrutura do Projeto
-├── src/  
-│ └── Aula.dart # Script principal em Dart  
-├── .gitignore  
-├── Project1.iml  
-└── README.md  
+## Getting Started
 
-## 🏗️ Classe implementada
-A classe escolhida foi **Filme**, com os seguintes atributos:
-- `id` (int) → Identificador do filme
-- `nome` (String) → Nome do filme
-- `diretor` (String) → Diretor responsável
-- `notaImdb` (double) → Nota no IMDb
+This project is a starting point for a Flutter application.
 
-## 🔄 Lógica implementada
-1. Foi criada uma lista (`List<Filme>`) com **5 filmes de exemplo**.
-2. O programa percorre a lista exibindo todos os filmes.
-3. A cada iteração, verifica se a nota do filme é maior que a nota do atual "melhor filme".
-4. Ao final, exibe o **filme com maior nota IMDb**.
+A few resources to get you started if this is your first Flutter project:
 
-### Exemplo de saída no console:
-Nome: "Interestelar"  
-Diretor: Christopher Nolan  
-Nota IMDb: 8.7  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Nome: "Cidade de Deus"  
-Diretor: Fernando Meirelles  
-Nota IMDb: 8.6  
-
-...  
-
------- MELHOR FILME --------  
-Nome: "O Poderoso Chefão"  
-Diretor: Francis Ford Coppola  
-Nota IMDb: 9.2  
-
-
-## ▶️ Como executar
-1. Instale o SDK do [Dart](https://dart.dev/get-dart).  
-2. Clone este repositório:  
-   ```bash  
-   git clone https://github.com/DiiogoLR/Trabalho_SI_8s_1b.git  
-
-Acesse a pasta do projeto e rode o arquivo principal:  
-
-    cd projeto-dart-parte1/src  
-    dart main.dart  
-
-👨‍💻 Autores:
-
-- Diogo Lima do Rosario
-- Gellyorge Marvila Marques
-- Gustavo Marvila Haddad Elias
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
