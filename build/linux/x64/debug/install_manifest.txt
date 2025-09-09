@@ -1,0 +1,14 @@
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/aula01
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/gellyorge/Documents/Aplicacoes/flutter/aula01/build/linux/x64/debug/bundle/data/flutter_assets/version.json
